@@ -1,1 +1,1 @@
-# Medical-image-segementation-using-UNET-VIT
+# Medical image segementation using U-NET AND VIT
